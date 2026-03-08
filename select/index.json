@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Mind Games",
+  "base_artist": "Sickick",
+  "createdAt": "2026-03-08T13:36:49.499743Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mind Games",
+      "artist": "BANKS",
+      "has_synced": true,
+      "path": "select/01_Mind_Games_BANKS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mind Games",
+      "artist": "Devo",
+      "has_synced": true,
+      "path": "select/02_Mind_Games_Devo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mind Games",
+      "artist": "Eternity X",
+      "has_synced": false,
+      "path": "select/03_Mind_Games_Eternity_X.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mind Games",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/04_Mind_Games_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mind Games",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/05_Mind_Games_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mind Games",
+      "artist": "Sinéad O’Connor",
+      "has_synced": false,
+      "path": "select/06_Mind_Games_Sinéad_O’Connor.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Solitary Mind Games",
+      "artist": "Hawkwind",
+      "has_synced": false,
+      "path": "select/07_Solitary_Mind_Games_Hawkwind.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mind Games",
+      "artist": "Triumph",
+      "has_synced": true,
+      "path": "select/08_Mind_Games_Triumph.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mind Games (bonus)",
+      "artist": "Triumph",
+      "has_synced": true,
+      "path": "select/09_Mind_Games_(bonus)_Triumph.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mind Games",
+      "artist": "Sickick",
+      "has_synced": true,
+      "path": "select/10_Mind_Games_Sickick.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mind Games - Remastered 2010",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/11_Mind_Games_-_Remastered_2010_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mind Games (Remastered 2010)",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/12_Mind_Games_(Remastered_2010)_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mind Games",
+      "artist": "Colours",
+      "has_synced": false,
+      "path": "select/13_Mind_Games_Colours.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mind Games",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/14_Mind_Games_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mind Games",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/15_Mind_Games_John_Lennon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mind Games",
+      "artist": "Sickick",
+      "has_synced": false,
+      "path": "select/pl_01_Mind_Games_Sickick.txt"
+    }
+  ]
+}
